@@ -1,0 +1,1 @@
+everything is object,python object is a mini program inside python,with its own set of rules and behaviors.objects are variables that contains data and functions that can be used to manipulate the data.
