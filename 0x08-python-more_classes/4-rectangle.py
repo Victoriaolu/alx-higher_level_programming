@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""
-Defines Rectangle class
-"""
+# 4-rectangle.py
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """ Rectangle """
-    def __init__(self, width=0, height=0):
+    """Represent a rectangle."""
+
