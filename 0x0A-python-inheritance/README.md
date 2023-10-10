@@ -1,0 +1,1 @@
+python inheritance allows us to define a class that inherits all the methods and properties from another class,te parent class,child class or the derived class.it allows programmers to create classes that are built upon existing classes to specify a new implementatio while maintaining the same behaviours.
