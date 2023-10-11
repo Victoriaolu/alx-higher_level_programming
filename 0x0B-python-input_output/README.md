@@ -1,0 +1,1 @@
+python input output using input and print function .it takes input from the user and display a result to the outside world.the input function converts it string and uses the print function to print output.
